@@ -11,7 +11,7 @@ Welcome to first's documentation!
    :numbered:
    
    te
-   Introduction to Django
+   Introduction to Django.md
 
 
 
